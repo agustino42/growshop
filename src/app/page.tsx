@@ -19,6 +19,7 @@ export default function Home() {
 <FeaturedProducts title="Todo para El indor" />
 <FeaturedProducts title="Accesorios" />
 <FeaturedProducts title="Productos mas Vendidos" />
+<FeaturedProducts title="Productos menos vendidos" />
 
 </div>
 
