@@ -24,7 +24,7 @@ export default function RootLayout({
     <head>  
     <title>SiempreVerdeGrowShop🌱🌱🥦</title>
     <meta title="description" content="SiempreVerdeGroShop 50% Descuento 💥💲"></meta>
-    <link rel="icon" type="image/png" sizes="32x32" href="icons8-hoja-de-marihuana-64.png" />
+    
     </head>
       <body>
       <CacheProvider>

@@ -9,7 +9,7 @@ export const Search = () => {
     <InputGroup size="sm" w={{base: "100%", lg: "32rem"}}>
     <InputLeftElement 
     pointerEvents='none' 
-    children={<SearchIcon color='gray.600'/>}
+   /* children={<SearchIcon color='gray.600'/>} */ 
     />
     <Input {...searchInputStyles} />
   </InputGroup>
