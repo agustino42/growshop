@@ -5,17 +5,14 @@
 import { CacheProvider} from "@chakra-ui/next-js"
 import { Box, ChakraProvider} from "@chakra-ui/react"
 import './page.css'
-import type { Metadata } from 'next'
+
 import { theme } from "@/theme";
 import Link from "next/link";
 import { Navbar } from "./components/Navbar/Navbar";
 
 
 
-export const metadata: Metadata = {
-  title: 'SiembreVerdeGrowshop',
-  description: 'Growshop',
-}
+
 
 export default function RootLayout({
   children,
